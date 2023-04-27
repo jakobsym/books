@@ -1,0 +1,13 @@
+-- AoA Final Study Guide --
+
+- Weak Areas:
+	-> Dynamic Programing (Memoization / Bottom-up)
+	-> DFS
+	-> Heap Stuff ( From Exam 1 )
+	-> Probability
+
+- Strong Areas:
+	-> Growth of Function
+	-> Big-oh Induction (good w/ notes)
+	-> Hash Table
+	-> Prims. / BFS / Dijkstras
